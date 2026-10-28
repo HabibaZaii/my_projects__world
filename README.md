@@ -1,4 +1,4 @@
-Hello, I’m Habiba — a Computer Science student passionate about learning how technology works and turning ideas into real projects.
+Hello, I’m Habiba - a Computer Science student passionate about learning how technology works and turning ideas into real projects.
 
 I enjoy building small applications, solving problems step by step, and learning through hands-on experience. My interests include software development, data, problem solving, and exploring how technology can be used to make work easier and more meaningful.
 
