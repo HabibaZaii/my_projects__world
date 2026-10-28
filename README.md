@@ -1,20 +1,26 @@
-I'm a Computer Science student who enjoys learning how technology works and turning ideas into small projects.
+Hello, I’m Habiba — a Computer Science student passionate about learning how technology works and turning ideas into real projects.
 
-I'm not an expert yet, but I'm learning, experimenting, and improving with every project I build.
+I enjoy building small applications, solving problems step by step, and learning through hands-on experience. My interests include software development, data, problem solving, and exploring how technology can be used to make work easier and more meaningful.
 
-### About Me
-- Currently studying Computer Science.
-- I can build small programming projects and solve problems step by step.
-- I enjoy working with data and finding better ways to understand and organize it.
-- Still learning, still making mistakes, and definitely still debugging.
-- Looking forward to gaining more experience in the tech and IT world.
+About Me
 
-### My Mindset
-I believe you don't have to know everything to start building something.
-I'm here to learn, experiment, share my work, and improve one project at a time.
+Currently studying Computer Science
+Interested in software development, data handling, and project-based learning
+Enjoy building practical solutions and improving my coding skills
+Learning by experimenting, debugging, and refining my ideas
+Always looking for opportunities to grow and learn from real-world problems
+What I’m Working On
 
-### What's Next?
-Learning new technologies, building better projects, and exploring the endless possibilities of tech.
+Building small projects to improve my technical skills
+Exploring new technologies and development concepts
+Strengthening my understanding of programming, data, and problem solving
+Skills & Interests
 
-**Not an expert yet. Just getting started, and that's the exciting part.**
-Thanks for visiting my profile!
+Programming
+Problem solving
+Data and organization
+Project-based learning
+Continuous improvement and self-development
+My mindset I believe you do not need to know everything before you start. I’m learning through building, experimenting, and improving one step at a time.
+
+Thanks for visiting my profile. I’m excited to keep learning, creating, and growing in the world of technology.
