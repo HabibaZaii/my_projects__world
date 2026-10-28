@@ -40,7 +40,6 @@ This project is meant to:
 
 ## Repository structure
 
-A suggested project structure is:
 
 ```bash
 my_projects__world/
